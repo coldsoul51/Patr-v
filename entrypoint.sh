@@ -10,7 +10,7 @@ uuidtwo=0289135e-9763-432e-b016-e850a10fdcb1
 uuidthree=944c7630-49ec-4204-80b2-f02ed9ed7044
 uuidfour=dcd84bff-54b7-475a-888a-5bc63b62e079
 uuidfive=724e9cc6-2609-40fb-b26a-c5cfebfc12e4
-mypath=/file-myfile
+mypath=/hello-morning
 myport=8080
 
 
